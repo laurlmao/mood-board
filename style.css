@@ -1,0 +1,23 @@
+#moodbox {
+    width: 300px;
+    height: 200px;
+    border: 15px black;
+    background-color: lavender;
+    margin: auto;
+    justify-content: left;
+}
+
+#textdiv {
+    margin: auto;
+    margin-top: 15px;
+    width: 230px;
+    text-align: center;
+  }
+
+  #explanation {
+    margin: auto;
+    margin-top: 15px;
+    width: 230px;
+    text-align: center;
+  } 
+
